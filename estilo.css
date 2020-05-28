@@ -1,0 +1,16 @@
+header{
+     background: slategray;
+     color: white;
+    }
+.main{
+    background: grey;
+    color: white;
+}
+aside{
+    background: white;
+    color: black;
+}
+footer{
+    background: grey;
+    color: white;
+    }
